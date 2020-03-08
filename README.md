@@ -22,7 +22,8 @@
 1. ssh 授权管理。
 2. clone 云端项目到本地项目。
 3. stage、commit 、branch、push、pull、merge、stash 的灵活应用。
-4. 协作中的 pull request。
+4. sourcetree 中分支（branchs）和提交（commits）的树形组织。
+5. 协作中的 pull request。
 
 ## vscode
 
