@@ -1,6 +1,7 @@
 # Git Markdown vscode 综合应用指南
 
 >面向程序员的指南，也适合需要协作、写作和版本管理的高效工作流。
+
 [TOC]
 
 ## 工具环境配置
@@ -33,7 +34,6 @@
 ## Markdown 语言
 
 1.[Typora 的 markdown语言使用指南](./MarkdownReference.md)。
-2.
 
 ## Typora
 
