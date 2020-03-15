@@ -24,12 +24,35 @@
 3. stage、commit 、branch、push、pull、merge、stash 的灵活应用。
 4. sourcetree 中分支（branchs）和提交（commits）的树形组织。
 5. 协作中的 pull request。
+6. .gitignore 忽略文件的使用。
 
 ## vscode
 
 1. 安装一些常用插件。
+    * Project Manager
+    * vscode-icons
+    * markdownlint
+    * Markdown Preview Enhanced
+    * Settings Sync
+    * Live Share
+    * GitLens — Git supercharged
+    * hide-gitignored
+    * C/C++(microsoft)
+    * Clang-Format
+    * others
 2. 记住常用快捷键和自定义快捷键。
+    - vscode Help 菜单中的快捷键参考指南
+    - ctrl+enter
+    - ctrl+；
+    - ctrl+:
+    - F2
+    - ctrl+shift+o
+    - ctrl+t
 3. 结合 git 的高效工作流。
+    - 语言感知( C 语言为例)
+    - 自动补全
+    - 代码格式化
+    - 代码重构
 4. 基于LiveShare 的结对编程。
 
 ## Markdown 语言
