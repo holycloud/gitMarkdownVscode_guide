@@ -63,6 +63,7 @@
 ```C
 void main(){
     int tmpVar;
+    int temp;
 }
 ```
 
