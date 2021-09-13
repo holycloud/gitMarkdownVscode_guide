@@ -10,14 +10,14 @@
 2. 下载安装 [vscode](https://code.visualstudio.com/)，课程使用 [vscode](https://code.visualstudio.com/) 编辑 [Markdown](https://help.github.com/articles/github-flavored-markdown/)文档和代码。
 3. git 入门请读 [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)，进阶请阅读 [git 权威指南](https://gitee.com/progit/) 或其 [英文版](https://git-scm.com/book/en/v2)。
 
-## GitHub
+## Github
 
 1. ssh 授权管理。
 2. 公开和私用项目。
 3. web 项目管理，自有项目和 Fork 他人项目。
 4. 本课程是 GitHub 公开项目，欢迎 Fork 和 Star。
 
-## sourcetree 与 GitHub Desktop
+## sourcetree 与 Github Desktop
 
 1. ssh 授权管理。
 2. clone 云端项目到本地项目。
@@ -32,7 +32,7 @@
     * Project Manager
     * vscode-icons
     * markdownlint
-    * Markdown Preview Enhanced
+    * Markdown All In One
     * Settings Sync
     * Live Share
     * GitLens — Git supercharged
@@ -41,19 +41,21 @@
     * Clang-Format
     * others
 2. 记住常用快捷键和自定义快捷键。
-    - vscode Help 菜单中的快捷键参考指南
-    - ctrl+enter
-    - ctrl+；
-    - ctrl+:
-    - F2
-    - ctrl+shift+o
-    - ctrl+t
+    * vscode Help 菜单中的快捷键参考指南
+    * ctrl+enter
+    * ctrl+；
+    * F2
+    * F12
+    * ctrl+shift+p
+    * ctrl+shift+o
+    * ctrl+t
+    * alt+LArrow/RArrow
 3. 结合 git 的高效工作流。
-    - 语言感知( C 语言为例)
-    - 自动补全
-    - 代码格式化
-    - 代码重构
-    - 统一的 C 代码风格
+    * 语言感知( C 语言为例)
+    * 自动补全
+    * 代码格式化
+    * 代码重构
+    * 统一的 C 代码风格
 4. 基于LiveShare 的结对编程。
 
 ## Markdown 语言
